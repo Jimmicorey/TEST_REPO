@@ -29,5 +29,12 @@ main p {
   margin-top: 0;
 }
 
+.wrapper {
+  width: 100%;
+}
 
+.group {
+  display: flex;
+  flex-direction: column;
+}
 
